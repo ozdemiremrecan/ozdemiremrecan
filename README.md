@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development(ReactJS,VueJS).<br>🌱 I’m currently learning web3 development(Solidity,ethers.js,web3.js).
+🔭 I’m currently working on frontend development(ReactJS,Angular).<br>🌱 I’m currently learning web3 development(Solidity,ethers.js,web3.js).
 
 
 ## 🌐 Socials:
