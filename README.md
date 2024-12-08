@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on frontend development(ReactJS,Angular)
+🔭 I’m currently working on frontend development(Angular)
 
 
 ## 🌐 Socials:
