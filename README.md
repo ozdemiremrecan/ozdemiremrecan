@@ -12,5 +12,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ozdemiremrecan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=ozdemiremrecan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
